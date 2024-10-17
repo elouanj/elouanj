@@ -1,6 +1,6 @@
 
 ### Hi there :wave:
-- :ok_hand: I am Elouan Jeannot, a French software engineer from Bordeaux specialized in C, C++ and Python.
+- :point_right: I am Elouan Jeannot, a French software engineer from Bordeaux specialized in C, C++ and Python.
 
 - :open_hands:	Having finished my computer engineering studies following an internship at the Lawrence Berkeley National Laboratory, I carried out a Civic Service in Armenia to take a step back from my objectives, my role in society and the profession that I would like to perform.
   
